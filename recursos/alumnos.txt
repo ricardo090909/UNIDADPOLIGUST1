@@ -1,0 +1,5 @@
+23650320	Angel Gustavo	Guzman	Martinez	MASCULINO	2004	02	09	Carretera Aputzio de Juarez	23	SUR	El Aguacate	Zitacuaro	Michoacan	61535	gusgus@gmail.com	7151097383	Ingenieria en sistemas computacionales	Segundo	M
+23650345	Renato	Carrillo	Colin	MASCULINO	2004	03	23	El cerezo	45	PONIENTE	San Andres	Zitacuaro	Michoacan	61540	renato@gmail.com	7151234567	Ingenieria en sistemas computacionales	Segundo	M
+23650313	Brayan	Gonzalez	Garcia	MASCULINO	2003	10	14	Pueblita	69	SUR	El moral	Zitacuaro	Michoacan	61532	bbbbbbbbbbbbbb@gmail.com	7151679389	Ingenieria en sistemas computacionales	Segundo	M
+23650361	Hugo	Corbella	Garcia	MASCULINO	2003	07	25	Jose Maria Morelos	89	ORIENTE	Centro	Zitacuaro	Michoacan	61500	corbella@gmail.com	7151347283	Ingenieria en sistemas computacionales	Segundo	M
+23650367	Hector	Sanchez	Ventoledo	MASCULINO	2003	04	06	Hidalgo	24	PONIENTE	La palma	Ocampo	Michoacan	61386	hectorino@gmail.com	7263456489	 Ingenieria en sistemas computacionales	Segundo	L

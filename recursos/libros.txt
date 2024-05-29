@@ -1,0 +1,9 @@
+111111111111111	c++	Herbert Sehidt	Mc Graw Hill	Septima	Español	1
+222222222222222	c	Brian Kerniham	Mc Graw Hill	Decima	Español	12
+333333333333333	Primer Curso de contabilidad	Elias Lara Flores	trillas	26a ed.	Español	1
+444444444444444	Algebra Lineal	Staley I. Grossman S.	Mc Graw Hill	7ma	Español	1
+555555555555555	Algebra Lineal Con Aplicaciones y Python	Ernesto Aranda	Lulu	Primera	Español	1
+666666666666666	Calculo Diferencial E Integral	Purcell, Varbeg, Rigdon	Pearson	Novena	Español	1
+777777777777777	Matematicas para la computacion	Jose Alfredo Jimenez Murillo	Alfaomega	Primera	Español	1
+888888888888888	Java	Herbert Sehidt	Mc Graw Hill	Septima	Español	1
+999999999999999	El mundo de Sofia	Jostein Gaarder	Patria	Tercera	Español	1
